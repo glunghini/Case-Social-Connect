@@ -1,7 +1,16 @@
 # Case-Social-Connect
 Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
+
+
+
 André Flores rm554952
+
+
+
 Gabriel Máximo Kaupa rm555879
+
+
+
 Guilherme Lunghini rm556892
 
 
